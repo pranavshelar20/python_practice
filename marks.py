@@ -1,3 +1,4 @@
-marks = int(input("Enter your marks; "))
+a1= int(input("Enter number: "))
 
-print(marks)
+if 2 % a1 == 0:
+    print(f()a1," ")
